@@ -1,0 +1,41 @@
+
+h1 {
+    font-family: Quicksand;
+    color: Slategrey;
+  }
+  
+  thead { 
+    font-family: Quicksand;
+  }
+  
+  th {
+    border-left-style: solid;
+    border-bottom-style: solid;
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  
+  .header {
+    font-family: Quicksand;
+    }
+  
+  td {
+     font-family: Quicksand;
+     border-style: double;
+     border: 2px solid grey;
+     text-align: center;
+  }
+
+  .a {
+    table-layout: fixed;
+    width: 800px;
+  }
+
+  .b {
+    table-layout: fixed;
+    width: 800px;
+  }
+
+  .c {
+    table-layout: fixed;
+    width: 800px;
+  }
